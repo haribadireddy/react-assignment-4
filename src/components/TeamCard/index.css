@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.team-list {
+  border: 1px solid #475569;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px;
+  border-radius: 5px;
+  list-style-type: none;
+  padding: 15px;
+  min-width: 400px;
+  background-color: #ffffff33;
+}
+.team-image {
+  height: 100px;
+  width: 100px;
+}
+.team-name {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-size: 25px;
+  font-weight: bold;
+  max-width: 220px;
+  text-align: center;
+}
